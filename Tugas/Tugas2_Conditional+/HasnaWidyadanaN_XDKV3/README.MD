@@ -33,7 +33,7 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
   <img src="https://img.shields.io/badge/System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-# 🚀 Cara run PHP di Termux
+# 🚀 Cara run PHP di Termux dan linux
 
 ## 📱 Termux (Android)
 
@@ -54,7 +54,8 @@ php index.php
 php -S localhost:8080
 
 ---
-```bash
+## 💻 linux (PC/laptop)
+
 ## 🚀 Cara run PHP di  Linux
 
 # 1. Update sistem

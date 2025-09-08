@@ -53,9 +53,8 @@ php index.php
 php -S localhost:8080
 
 ---
-## 💻 linux (PC/laptop)
+## 💻 Linux (PC/laptop)
 
-## 🚀 Cara run PHP di  Linux
 
  1. Update sistem
 sudo apt update && sudo apt upgrade -y

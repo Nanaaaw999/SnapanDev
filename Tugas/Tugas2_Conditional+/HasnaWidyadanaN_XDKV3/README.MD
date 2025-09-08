@@ -54,7 +54,7 @@ php index.php
 php -S localhost:8080
 
 ---
-
+```bash
 ## 🚀 Cara run PHP di  Linux
 
 # 1. Update sistem

@@ -1,4 +1,4 @@
-# 🗓️ Jadwal Kakak Pemalas  
+# 🗓️ Jadwal buat Kakak Pemalas  
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
 
@@ -13,9 +13,11 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 ## 📸 Preview hasil run
 
 ### Tampilan Menu Awal
+
 ![menu](assets/preview.jpg)
 
 ### Contoh Input Jam
+
 ![input](assets/preview 2.jpg)
 
 ---

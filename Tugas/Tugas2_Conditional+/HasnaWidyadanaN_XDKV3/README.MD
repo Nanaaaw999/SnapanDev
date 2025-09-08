@@ -49,8 +49,8 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 ---
 
 3. install php 
-```bash pkg install php -y 
-
+**pkg install php -y**
+```bash
 
 ---
 

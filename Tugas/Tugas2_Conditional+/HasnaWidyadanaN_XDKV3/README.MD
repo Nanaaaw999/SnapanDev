@@ -37,7 +37,6 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 
 ## 📱 Termux (Android)
 
-```bash
  1. Update & Upgrade
 pkg update && pkg upgrade -y
 

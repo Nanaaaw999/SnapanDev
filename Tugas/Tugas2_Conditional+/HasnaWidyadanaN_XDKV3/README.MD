@@ -33,63 +33,22 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
   <img src="https://img.shields.io/badge/System-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-# 🚀 Cara run PHP di Termux 
+# 🚀 Cara Menjalankan PHP di Termux & Linux
 
-## 📱 Termux
+## 📱 Termux (Android)
 
-1. **Install Termux**  
-   - Download dari [F-Droid](https://f-droid.org/packages/com.termux/) (lebih stabil daripada Play Store).  
-
----
-
-2. **Update & Upgrade Termux** 
-```bash 
-   pkg update && pkg upgrade -y
-
----
-
-3. **install php**
 ```bash
+# 1. Update & Upgrade
+pkg update && pkg upgrade -y
+
+# 2. Install PHP
 pkg install php -y
 
----
-
-4. **cek versi php**
-```bash
+# 3. Cek versi PHP
 php -v
 
----
+# 4. Jalankan file PHP
+php index.php
 
-5.  **jalanin php, bisa 2 cara**
-
-**cara pertama**
-```bash
-php test.php
-**cara kedua**
-```bash
-php -S localhost:8000
-
----
-
-# 🚀 Cara run PHP di Linux
-
----
-
-1. update dulu
-sudo apt update && sudo apt upgrade -y      # Ubuntu/Debian
-sudo pacman -Syu                            # Arch
-sudo dnf update                             # Fedora
-
----
-
-2. install PHP 
-sudo apt install php -y        # Ubuntu/Debian
-sudo pacman -S php             # Arch
-sudo dnf install php -y        # Fedora
-
----
-
-3.cek versi pho
-php -v
-
-4.run, kaya di termux baca sendiri 
+# 5. Jalankan PHP server (opsional)
+php -S localhost:8080

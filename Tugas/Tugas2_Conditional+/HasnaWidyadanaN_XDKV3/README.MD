@@ -1,7 +1,5 @@
 # 🗓️ Jadwal buat Kakak Pemalas  
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)  
-
 ---
 
 program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cli** gituu, fiturnya ga ribet sihh:  
@@ -22,6 +20,7 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 </p>
 
 ---
+**program ini di buat menggunakan**
 
 <p align="center">
   <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP Logo" width="150"/>

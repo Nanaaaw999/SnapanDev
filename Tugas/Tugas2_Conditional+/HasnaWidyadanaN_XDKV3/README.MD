@@ -57,17 +57,17 @@ php -S localhost:8080
 
 ## 🚀 Cara run PHP di  Linux
 
-# 1. Update sistem
+ 1. Update sistem
 sudo apt update && sudo apt upgrade -y
 
-# 2. Install PHP
+ 2. Install PHP
 sudo apt install php -y
 
-# 3. Cek versi PHP
+ 3. Cek versi PHP
 php -v
 
-# 4. Jalankan file PHP
+ 4. Jalankan file PHP
 php index.php
 
-# 5. Jalankan PHP server (opsional)
+ 5. Jalankan PHP server (opsional)
 php -S localhost:8000

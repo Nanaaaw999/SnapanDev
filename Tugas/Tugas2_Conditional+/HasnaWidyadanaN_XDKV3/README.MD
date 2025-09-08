@@ -9,16 +9,13 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 - ⏰ cari aktivitas sesuai jam yg lu masukin  
 - 🚪 keluar kalo udah bosen  
 
----
 ## 📸 Preview hasil run
 
 ### Tampilan Menu Awal
-
 ![menu](assets/preview.jpg)
 
 ### Contoh Input Jam
-
-![input](assets/preview 2.jpg)
+![input](assets/preview%202.jpg)
 
 ---
 

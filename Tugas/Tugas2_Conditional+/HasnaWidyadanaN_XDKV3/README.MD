@@ -38,18 +38,23 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 ## 📱 Termux (Android)
 
  1. Update & Upgrade
+
 pkg update && pkg upgrade -y
 
  2. Install PHP
+
 pkg install php -y
 
  3. Cek versi PHP
+
 php -v
 
  4. Jalankan file PHP
+
 php index.php
 
  5. Jalankan PHP server (opsional)
+
 php -S localhost:8080
 
 ---
@@ -57,16 +62,21 @@ php -S localhost:8080
 
 
  1. Update sistem
+
 sudo apt update && sudo apt upgrade -y
 
  2. Install PHP
+
 sudo apt install php -y
 
  3. Cek versi PHP
+
 php -v
 
  4. Jalankan file PHP
+
 php index.php
 
  5. Jalankan PHP server (opsional)
+
 php -S localhost:8000

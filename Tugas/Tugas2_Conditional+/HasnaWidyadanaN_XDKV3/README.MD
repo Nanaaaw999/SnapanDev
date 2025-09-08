@@ -72,8 +72,7 @@ php index.php
  5. Jalankan PHP server (opsional)
 php -S localhost:8000
 
-<details>
----
+</summary>
 
 ## 🎉 Penutup  
 

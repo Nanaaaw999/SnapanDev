@@ -10,6 +10,15 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 - 🚪 keluar kalo udah bosen  
 
 ---
+## 📸 Preview hasil run
+
+### Tampilan Menu Awal
+![menu](assets/preview.jpg)
+
+### Contoh Input Jam
+![input](assets/preview 2.jpg)
+
+---
 
 ## 🚀 cara jalanin  
 1. install php dulu (cek: `php -v`, kalo di linux bisa install pake `sudo apt update && sudo apt install php -y`)  

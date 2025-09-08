@@ -42,29 +42,33 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 
 ---
 
-2. **Update & Upgrade Termux**  
-   ```bash
+2. **Update & Upgrade Termux** 
+```bash 
    pkg update && pkg upgrade -y
 
 ---
 
-3. install php 
-**pkg install php -y**
+3. **install php**
 ```bash
+pkg install php -y
 
 ---
 
-4.cek versi php
+4. **cek versi php**
+```bash
 php -v
 
 ---
 
-5.jalanin php, bisa 2 cara 
+5.  **jalanin php, bisa 2 cara**
 
-cara pertama
-php test.pho
-cara kedua 
+**cara pertama**
+```bash
+php test.php
+**cara kedua**
+```bash
 php -S localhost:8000
+
 ---
 
 # 🚀 Cara run PHP di Linux

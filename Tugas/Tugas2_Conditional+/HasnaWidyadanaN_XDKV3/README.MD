@@ -18,7 +18,7 @@ program ini cumaa buat ngejalanin jadwal ala2 kakak pemalasss 😴 pake **php cl
 
 <p align="center">  
   <b>⏰ Contoh Input Jam</b><br><br>  
-  <img src="assets/preview%02.jpg" alt="input" width="500">  
+  <img src="assets/preview 2.jpg" alt="input" width="500">  
 </p>
 
 ---

@@ -79,3 +79,16 @@ php index.php
  5. Jalankan PHP server (opsional)
 
 php -S localhost:8000
+
+---
+
+## 🎉 Penutup  
+
+
+Itu aja program jadwal hari Senin untuk Kaka pemalas yang aku buat. Program ini simpel banget tapi bisa dipakai buat latihan coding biar lebih paham dasar-dasarnya.
+dan kalau ada salah-salah dan kode berantakan yaa maaaf namanya juga masih belajar 😅✌️
+
+
+<p align="center">
+  Dibuat dengan ❤️ oleh [Nanaa Sigma]
+</p>
